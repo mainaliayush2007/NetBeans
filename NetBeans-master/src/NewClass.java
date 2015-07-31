@@ -1,7 +1,7 @@
 
 public class NewClass {
     public static void main(String[] args) {
-        System.out.println("PC");
+        System.out.println("I am programming from pc biatch");
     }
     
 }
