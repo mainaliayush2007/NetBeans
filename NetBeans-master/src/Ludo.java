@@ -4,7 +4,7 @@ public class Ludo {
         Scanner inp=new Scanner(System.in);
         Random dice=new Random();
         System.out.println("Enter Number of players");
-        int n=inp.nextInt();
+        int n=Integer.parseInt(inp.nextLine());//Important
         int score[]=new int[n];
         String[] name=new String[20];
         
