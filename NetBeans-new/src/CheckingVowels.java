@@ -9,7 +9,7 @@ public class CheckingVowels {
             System.out.println("It is vowel");
         }
         else{
-            System.out.println("It is consonant!");
+            System.out.println("It is consonant");
         }
         
     }
